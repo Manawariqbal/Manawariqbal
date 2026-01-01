@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Md Manawar Iqbal
-- 👀 I’m interested in Machine Learning | AI | Java |  Python  |HTML CSS JavaScript | Opensource   | SAP ABAP
+- 👀 I’m interested in Machine Learning Data Engineering| Azure Data Engineer | pyspark | spark 
 - 🌱 I’m currently learning Data Science 
-- 💞️ I’m looking to collaborate Machine learning /Data Science Project
+- 💞️ I’m looking to collaborate Data Engineering Project
 - 📫 contact me at mmiqbalmanawar@gmail.com
 8972598177
 
