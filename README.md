@@ -1,51 +1,57 @@
 # 👋 Hi, I'm Md Manawar Iqbal
 
-🚀 Backend & Data Engineer passionate about building scalable data systems and analytics platforms.
+🚀 Backend & Data Engineer focused on building scalable data pipelines,
+analytics platforms, and cloud-based systems.
+
+------------------------------------------------------------------------
 
 ## 💡 About Me
 
-* 🔭 Currently working on **Data Engineering & Backend Systems**
-* 👀 Interested in **Machine Learning, Data Engineering, and Distributed Systems**
-* 🌱 Currently learning **Data Science, Advanced Data Pipelines, and AI Applications**
-* 💞️ Open to collaborate on **Data Engineering and Backend projects**
-* ⚡ Strong interest in **building scalable SaaS and analytics platforms**
+-   🔭 Working on **Data Engineering & Backend Systems**
+-   👀 Interested in **Machine Learning, Data Engineering, and
+    Distributed Systems**
+-   🌱 Currently learning **Data Science and AI-powered applications**
+-   💞️ Looking to collaborate on **Data Engineering projects**
+-   ⚡ Passionate about **scalable analytics platforms and SaaS
+    products**
 
-## 🛠️ Tech Stack
+------------------------------------------------------------------------
 
-**Languages**
+## 🛠 Tech Stack
 
-* Python
-* JavaScript
-* SQL
+**Languages** - Python - JavaScript - SQL
 
-**Data Engineering**
+**Data Engineering** - Apache Spark - PySpark - Airflow - dbt
 
-* Apache Spark
-* PySpark
-* Airflow
-* dbt
+**Cloud & DevOps** - Microsoft Azure - Docker - Linux - Git
 
-**Cloud & DevOps**
+**Databases** - PostgreSQL - MySQL
 
-* Microsoft Azure
-* Docker
-* Git
-* Linux
+------------------------------------------------------------------------
 
-**Databases**
+## 📊 GitHub Stats
 
-* PostgreSQL
-* MySQL
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=Manawariqbal&show_icons=true&theme=tokyonight)
+
+![Top
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manawariqbal&layout=compact&theme=tokyonight)
+
+------------------------------------------------------------------------
+
+## 🔥 GitHub Streak
+
+![GitHub
+Streak](https://streak-stats.demolab.com?user=Manawariqbal&theme=tokyonight)
+
+------------------------------------------------------------------------
 
 ## 📫 Connect With Me
 
-* 📧 Email: [mmiqbalmanawar@gmail.com](mailto:mmiqbalmanawar@gmail.com)
-* 📱 Phone: +91 8972598177
-* 💼 GitHub: https://github.com/Manawariqbal
+📧 Email: mmiqbalmanawar@gmail.com\
+📱 Phone: +91 8972598177
 
----
+------------------------------------------------------------------------
 
-⭐ Always interested in building **data platforms, analytics tools, and AI-powered applications.**
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manawariqbal&show_icons=true&theme=radical)
+⭐ Always interested in building **data platforms, analytics tools, and
+AI-driven applications.**
