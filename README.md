@@ -19,13 +19,16 @@ analytics platforms, and cloud-based systems.
 
 ## 🛠 Tech Stack
 
-**Languages** - Python - JavaScript - SQL
-
-**Data Engineering** - Apache Spark - PySpark - Airflow - dbt
-
-**Cloud & DevOps** - Microsoft Azure - Docker - Linux - Git
-
-**Databases** - PostgreSQL - MySQL
+**Programming Languages:** Python, SQL
+**Generative AI:** Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Agentic AI,
+Prompt Engineering, Function Calling, Structured Outputs, Semantic Search, Embedding Models, Context Engineering
+**LLM Frameworks:** LangChain, LangGraph, OpenAI SDK
+**Vector Databases:** ChromaDB, FAISS
+**Backend Development:** FastAPI, REST APIs, Microservices, SQLAlchemy, Pydantic
+**Databases:** PostgreSQL
+**Cloud & DevOps:**  Microsoft Azure,Azure AI, Docker, Git, GitHub Actions
+**Software Engineering:** System Design, Distributed Systems, Authentication, Authorization, API Security, Logging,
+Monitoring, Clean Architecture
 
 ------------------------------------------------------------------------
 
