@@ -173,7 +173,7 @@ retrieving relevant context, and executing multi-step tasks.
 
 📧 Email: mmiqbalmanawar@gmail.com
 
-💼 LinkedIn: [Connect with me on LinkedIn](YOUR_LINKEDIN_URL)
+💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/md-manawar-iqbal)
 
 💻 GitHub: [github.com/Manawariqbal](https://github.com/Manawariqbal)
 
